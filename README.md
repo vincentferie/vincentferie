@@ -5,7 +5,7 @@
 
 I'm a **developer** maintly but touches everything, servers, community management, events, social networks and moore. I lovin soo much this community. I am a fan of **Coding, Coffee Gaming and Manga**. ☕
 
-- Actually, I work on **[Incubtek <img src="https://drive.google.com/file/d/16EqdDwtZA4dFE6pduJVWnsYlVbt1Sg-v/view?usp=sharing" width="60px">](#)** and I take on the role of project coordinator.
+- Actually, I work on **[Incubtek](#)** and I take on the role of project coordinator.
 - I am also currently in charge of the Web and Digital trades within the Ministry of State, Ministry of Foreign Affairs, African Integration and the Diaspora in the government of Côte d'Ivoire.
 - My love for the code pushed me to want to transmit it to all new ones who are interested in the web business and also digital. So in face, I am a temporary teacher in a school called EDHEG.
 
