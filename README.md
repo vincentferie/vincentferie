@@ -61,7 +61,7 @@ I'm a **developer** maintly but touches everything, servers, community managemen
       <img src="https://github-readme-stats.vercel.app/api?username=arshey"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshey&layout=compact&hide_border=true"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentferie&layout=compact&hide_border=true"/>
     </td>
   </tr>
 </table>
